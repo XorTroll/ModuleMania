@@ -3,7 +3,9 @@
 
 ## How to use it
 - Create a text file on the root of your SD named `sys-play.txt`.
-- Add there the names of the audio files to play, ordered as you want:
+- Add there the names of the audio files to play, ordered as you want.
+
+TXT file example: 
 ```
 audio1.mp3
 track.wav
