@@ -2,6 +2,7 @@
 - Background audio playing sysmodule for Nintendo Switch!
 
 ## How to use it
+- Add the kip file to hekate INI (something like `kip1=sys-play.kip`)
 - Create a text file on the root of your SD named `sys-play.txt`.
 - Add there the names of the audio files to play, ordered as you want.
 
