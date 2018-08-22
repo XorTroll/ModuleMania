@@ -6,4 +6,4 @@
 
 ## I came here looking for sys-play...
 
-  - Sys-play sysmodule is outdated, so I'd recommend using `xor:play` instead. Anyway, it's only release can be found on this repository: [sys-play release](https://github.com/XorTroll/ModuleMania/releases/tag/sysplay)
+  - Sys-play sysmodule is outdated, so I'd recommend using `xor:play` instead. Anyway, its only release can be found on this repository: [sys-play release](https://github.com/XorTroll/ModuleMania/releases/tag/sysplay)
