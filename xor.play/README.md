@@ -14,5 +14,7 @@
   }
   ```
   - This way, when there's nothing opened and you're in Home Menu `play.wav` file would be played, and while BotW is opened `aud.mp3` would be played (even if you're on Home Menu and the app is minimized)
-  - The number of applets which support this is unknown, be free to test it. All games should work.
+  - This should work with any game, but the only system title working is the Home Menu.
+  - If there's an audio set to a title id equal or lower than `0100000000001000` (Home Menu's one) the audio set to that ID will play any time there's no game opened.
+  - Looks like opening hbmenu stops the audio playback, but when returning to Home Menu it should start again.
   - Any problems you have, ask them on my Discord server ([Nintendo H&H server](https://discord.gg/Qqnndqd)), or ask them on the release GBAtemp thread of ModuleMania.
