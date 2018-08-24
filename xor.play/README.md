@@ -1,8 +1,12 @@
 # ModuleMania sysmodule - `xor:play`
 
+## Important! Before using the sysmodule!
+
+  - The memory of sysmodules is limited, so bigger audios may fail. There's no clear limit, just that some work and some don't.
+  - Like I said above, sysmodules have limited memory, so it may fail when used along with other sysmodules.
+
 ## How do I use this sysmodule?
 
-  - First of all, DON'T RUN THIS KIP ALONG WITH LAYEREDFS!
   - Save the kip and add it to your own CFW. I guess you'll already know how to add kips to the CFW you use.
   - Create a file on the root of the SD card named `xor.play.json`.
   Add there the Title IDs and the audio files to play when that title is opened.
